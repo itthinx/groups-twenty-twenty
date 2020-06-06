@@ -5,7 +5,7 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-An example theme illustrating content protection in templates with Groups. This is a Twenty Twenty Child Theme.
+An example theme illustrating content protection in templates with <a href="https://wordpress.org/plugins/groups/">Groups</a>. This is a Twenty Twenty Child Theme.
 
 == Description ==
 
